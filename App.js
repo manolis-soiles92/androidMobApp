@@ -1,10 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
+//remote system control for feeding animals 
 
 import React from 'react';
 import {
