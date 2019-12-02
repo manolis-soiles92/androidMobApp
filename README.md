@@ -1,2 +1,2 @@
 # androidMobApp
-ANDROID APPLICATION ΕΛΕΓΧΟΥ ΕΞΥΠΝΟΥ ΣΥΣΤΗΜΑΤΟΣ ΔΙΑΤΡΟΦΗΣ ΖΩΩΝ
+ANDROID MOBILE APPLICATION ΕΛΕΓΧΟΥ ΕΞΥΠΝΟΥ ΣΥΣΤΗΜΑΤΟΣ ΔΙΑΤΡΟΦΗΣ ΖΩΩΝ
